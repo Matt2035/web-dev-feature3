@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "ethereum",
+      "date_founded": "2015",
+      "ticker": "eth"
+    },
+    { "id": "2", "name": "bitcoin", "date_founded": "2009", "ticker": "btc" },
+    { "id": "3", "name": "cardano", "date_founded": "2017", "ticker": "ada" },
+    { "id": "4", "name": "litecoin", "date_founded": "2011", "ticker": "ltc" },
+    { "id": "5", "name": "dogecoin", "date_founded": "2013", "ticker": "doge" },
+    {
+      "id": "6",
+      "name": "bitcoin cash",
+      "date_founded": "2017",
+      "ticker": "bch"
+    }
+  ]
+}
